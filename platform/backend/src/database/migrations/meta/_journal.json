@@ -1415,6 +1415,13 @@
       "when": 1775056755259,
       "tag": "0201_bumpy_red_wolf",
       "breakpoints": true
+    },
+    {
+      "idx": 202,
+      "version": "7",
+      "when": 1775149914971,
+      "tag": "0202_brainy_nico_minoru",
+      "breakpoints": true
     }
   ]
 }
