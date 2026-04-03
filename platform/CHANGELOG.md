@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.2.4](https://github.com/archestra-ai/archestra/compare/platform-v1.2.3...platform-v1.2.4) (2026-04-03)
+
+
+### Documentation
+
+* add platform overview page ([#3625](https://github.com/archestra-ai/archestra/issues/3625)) ([9b914e3](https://github.com/archestra-ai/archestra/commit/9b914e389bb3567809fccab6fbe881c0d3ea990a))
+
+
+### Miscellaneous Chores
+
+* increase `minimum-release-age` to 7 days ([#3642](https://github.com/archestra-ai/archestra/issues/3642)) ([655dcb2](https://github.com/archestra-ai/archestra/commit/655dcb21f1f7dc8bd85d435cb33071c1e76cf6bf))
+
 ## [1.2.3](https://github.com/archestra-ai/archestra/compare/platform-v1.2.2...platform-v1.2.3) (2026-04-03)
 
 
